@@ -1,0 +1,6 @@
+{
+  "name": "NutriSmart BD",
+  "description": "Affordable, Evidence-Based Nutrition Planning for Bangladesh — Research Edition",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
